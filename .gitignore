@@ -1,0 +1,14 @@
+node_modules
+build
+npm-debug.log
+.env
+.serverless/
+.eslintcache
+.npm
+.yarn
+logs
+*.log
+./stack.json
+coverage
+
+/src/generated/prisma
